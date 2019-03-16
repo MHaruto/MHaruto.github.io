@@ -1,3 +1,13 @@
 .title {
   color: #02ccba;
 }
+body a {
+  background-color: red;
+  opacity: 0.7;
+  border-radius: 4px;
+  display: inline-block;
+  padding: 8px 24px;
+}
+body a:hover {
+  opacity: 1;
+}
